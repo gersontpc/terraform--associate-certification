@@ -1,0 +1,7 @@
+terraform workspace
+
+delete  -- Delete a workspace
+list    -- List Workspaces
+new     -- Create a new workspace
+select  -- Select a workspace
+show    -- Show the name of the current workspace
